@@ -1,0 +1,12 @@
+{
+  "charges": [
+    { "TransactionId": 1, "TransactionDate": "01/01/2019", "TransactionPostDate": "01/01/2019" , "MerchantName": "PizzaHut", "TransactionDesc": "test", "TransactionAmount": 100},
+	{ "TransactionId": 2, "TransactionDate": "02/02/2019", "TransactionPostDate": "02/02/2019" , "MerchantName": "Target", "TransactionDesc": "test", "TransactionAmount": 200},
+	{ "TransactionId": 3, "TransactionDate": "03/03/2019", "TransactionPostDate": "03/03/2019" , "MerchantName": "CVS", "TransactionDesc": "test", "TransactionAmount": 300},
+	{ "TransactionId": 4, "TransactionDate": "04/04/2019", "TransactionPostDate": "04/04/2019" , "MerchantName": "WholeFoods", "TransactionDesc": "test", "TransactionAmount": 400}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
