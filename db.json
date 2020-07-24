@@ -1,5 +1,5 @@
 {
-  "creditscore": [
+  "creditscores": [
 	{"pan":"XYZ", "creditscore": 100, "name": "XYZ", "address":"INDIA","Zipcode":"7097"},
 	{"pan":"ABC",  "creditscore": 200, "name": "ABC", "address":"INDIA","Zipcode":"9097"}
 	  ],
